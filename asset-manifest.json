@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-gh-pages/static/css/main.171c189e.css",
-    "main.js": "/portfolio-gh-pages/static/js/main.993d24d4.js",
+    "main.css": "/portfolio-gh-pages/static/css/main.a1834308.css",
+    "main.js": "/portfolio-gh-pages/static/js/main.9b772e61.js",
     "static/js/787.9100ed13.chunk.js": "/portfolio-gh-pages/static/js/787.9100ed13.chunk.js",
+    "static/media/sitConmigoThumbnail400.png": "/portfolio-gh-pages/static/media/sitConmigoThumbnail400.0b3ce7f303eb6b95d452.png",
     "static/media/kate-headshot-about.jpg": "/portfolio-gh-pages/static/media/kate-headshot-about.fa29234af37d69aae723.jpg",
     "static/media/logo.svg": "/portfolio-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio-gh-pages/index.html",
     "static/media/hero-bckgrnd-mobile.svg": "/portfolio-gh-pages/static/media/hero-bckgrnd-mobile.8480e8590b9297642ab2.svg",
-    "main.171c189e.css.map": "/portfolio-gh-pages/static/css/main.171c189e.css.map",
-    "main.993d24d4.js.map": "/portfolio-gh-pages/static/js/main.993d24d4.js.map",
+    "main.a1834308.css.map": "/portfolio-gh-pages/static/css/main.a1834308.css.map",
+    "main.9b772e61.js.map": "/portfolio-gh-pages/static/js/main.9b772e61.js.map",
     "787.9100ed13.chunk.js.map": "/portfolio-gh-pages/static/js/787.9100ed13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.171c189e.css",
-    "static/js/main.993d24d4.js"
+    "static/css/main.a1834308.css",
+    "static/js/main.9b772e61.js"
   ]
 }
