@@ -1,30 +1,27 @@
 const projectData = [
     {
-      title: "Project 1",
-      description:
-        "Description 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lacinia mauris ut nisi volutpat euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque fermentum leo quis lorem pellentesque eleifend. Suspendisse lobortis elit eros, sed fermentum ipsum pharetra vitae. Donec at aliquet orci. Donec suscipit vestibulum aliquet. Etiam convallis mauris sapien, vitae porttitor urna gravida at. Suspendisse in tortor imperdiet, fringilla massa vitae, fermentum arcu. Nam mi dolor, aliquam at tempor id, sodales non nisl. Aenean mattis eget urna non blandit. Fusce porta ante eu elit lobortis, quis gravida leo accumsan. Maecenas suscipit felis at neque vestibulum, quis molestie tortor mollis. Quisque tempor neque non pretium dapibus. Vivamus fringilla maximus mi a interdum. Donec pretium metus nec lorem pretium, in dictum risus ultrices.",
-      link: "https://www.google.com",
-      skills: ["Javascript", "React"],
-      image: "",
-      tools: ""
+      title: "Sit Conmigo",
+      description:"A mobile first design created from a client brief",
+            link: "https://kdaltondev.github.io/sit-conmigo/",
+      skills: ["Mobile First Design","Color & Typography","UI Design Patterns"],
+      image: "sitConmigoScreenshot",
+      tools: ["Figma","VSCode", "Chrome DevTools", "Photoshop"]
     },
     {
-      title: "Project 2",
-      description:
-        "Description 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lacinia mauris ut nisi volutpat euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque fermentum leo quis lorem pellentesque eleifend. Suspendisse lobortis elit eros, sed fermentum ipsum pharetra vitae. Donec at aliquet orci. Donec suscipit vestibulum aliquet. Etiam convallis mauris sapien, vitae porttitor urna gravida at. Suspendisse in tortor imperdiet, fringilla massa vitae, fermentum arcu. Nam mi dolor, aliquam at tempor id, sodales non nisl. Aenean mattis eget urna non blandit. Fusce porta ante eu elit lobortis, quis gravida leo accumsan. Maecenas suscipit felis at neque vestibulum, quis molestie tortor mollis. Quisque tempor neque non pretium dapibus. Vivamus fringilla maximus mi a interdum. Donec pretium metus nec lorem pretium, in dictum risus ultrices.",
-      link: "https://www.google.com",
-      skills: ["CSS", "HTML"],
-      image: "",
-      tools: ""
+      title: "Sticky Notes App",
+      description:"App that allows users to create, edit and delete sticky notes.",
+      link: "https://codesandbox.io/s/sticky-notes-4hfw79?file=/src/App.js",
+      skills: ["ES6","JSX","Managing Dataflow","Manipulating the DOM"],
+      image: "sticky-note-screenshot.png",
+      tools: ["CodeSandbox"]
     },
     {
-      title: "Project 3",
-      description:
-        "Description 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lacinia mauris ut nisi volutpat euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque fermentum leo quis lorem pellentesque eleifend. Suspendisse lobortis elit eros, sed fermentum ipsum pharetra vitae. Donec at aliquet orci. Donec suscipit vestibulum aliquet. Etiam convallis mauris sapien, vitae porttitor urna gravida at. Suspendisse in tortor imperdiet, fringilla massa vitae, fermentum arcu. Nam mi dolor, aliquam at tempor id, sodales non nisl. Aenean mattis eget urna non blandit. Fusce porta ante eu elit lobortis, quis gravida leo accumsan. Maecenas suscipit felis at neque vestibulum, quis molestie tortor mollis. Quisque tempor neque non pretium dapibus. Vivamus fringilla maximus mi a interdum. Donec pretium metus nec lorem pretium, in dictum risus ultrices.",
-      link: "https://www.google.com",
+      title: "First Congregational-Christian Church",
+      description:"Re-design of a Wordpress site with dynamic news, events, and sermons featured on the homepage.  Back-end optimized for ease of use.",
+            link: "https://www.google.com",
       skills: ["Responsive Design"],
       image: "",
-      tools: ""
+      tools: [""]
     }
   ];
   

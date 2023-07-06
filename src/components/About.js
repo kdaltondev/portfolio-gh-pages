@@ -4,18 +4,18 @@ import headshotImage from "./../img/kate-headshot-about.jpg";
 export default function About(){
     return(
         <>
-         <div id="about" className="about">
+        <div id="about" className="about">
         <div class="container">
-          <div class="row align-items-center my-5">
-            <div class="col-sm-12 col-lg-5 text-center">
+          <div class="row my-5">
+            <div class="col-sm-12 col-lg-5" className="about-img-container">
               <img
                 class="img-fluid mb-4 mb-lg-0"
-                className="hero-img"
+                className="about-img"
                 src={headshotImage}
                 alt="headshot"
                 />
               </div>
-              <div className="about hero-txt" class="col-sm-12 col-lg-7">
+              <div className="about-txt-container" class="col-sm-12 col-lg-7">
                 <h2>About Me</h2>
                 <h3>
                   Hi, I’m Kate Dalton. I’m a front-end developer based in
