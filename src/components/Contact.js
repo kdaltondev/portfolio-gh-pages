@@ -13,16 +13,17 @@ function Contact() {
           <div class="col-lg-4">
             <h2>Hire Me</h2>
             <h3>Kate Dalton</h3>
-            <h3>207-844-0077 | kdaltondev@gmail.com </h3>
+            <h3>207-844-0077</h3>
+            <h3>kdaltondev@gmail.com </h3>
           </div>
           <div class="col-lg-4">
             <h2>Follow Me</h2>
-            <FaLinkedin className="icon" />
-            <FaGithub className="icon" />
+           <a href="https://www.linkedin.com/in/kathleen-dalton/"> <FaLinkedin className="icon" /></a>
+           <a href="https://github.com/kdaltondev" ><FaGithub className="icon" /></a>
           </div>
           <div class="col-lg-4">
             <h2>Contact Me</h2>
-            <h3>Portland, ME</h3>
+            <h3>I'd love to get some coffee with you in or near Portland, ME</h3>
           </div>
         </div>
       </div>
