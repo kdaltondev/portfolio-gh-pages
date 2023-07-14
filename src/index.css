@@ -58,11 +58,21 @@ a:hover {
   color:var(--main-btn-bg-color);
   min-width:200px;
 }
-sidebar-navigation-menu ul{
+.sidebar-navigation-menu ul{
   list-style:none;
+  margin:0;
+  padding:0;
 }
+.sidebar-navigation-menu li{
+  margin:0;
+  padding:0;
+  text-align:left;
+}
+
 .sidebar-navigation-menu a{
   color:var(--main-btn-bg-color);
+  margin:0;
+  padding:0;
 }
 
 #hamburger-menu {
