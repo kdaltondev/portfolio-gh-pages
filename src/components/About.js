@@ -12,7 +12,7 @@ export default function About(){
                 class="img-fluid mb-4 mb-lg-0"
                 className="about-img"
                 src={headshotImage}
-                alt="headshot"
+                alt="headshot of Kate Dalton wearing a baseball cap and smiling at the camera"
                 />
               </div>
               <div className="about-txt-container" class="col-sm-12 col-lg-7">

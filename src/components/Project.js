@@ -8,7 +8,7 @@ export default function Project(props) {
   return (
     <div className="project">
       <div className="project-container">
-        <a href={props.data.link}>
+        <a href={props.data.link} target="_blank">
           <h3>{props.data.title}</h3>
           <div className="project-thumbnail-container">
             <img
@@ -18,7 +18,7 @@ export default function Project(props) {
                   : props.data.image === "newGloucesterScreenshot"
                   ? newGloucesterScreenshot
                   : stickyNoteScreenshot
-              }
+              } alt={props.data.imageAlt}
             />
           </div>
         </a>

@@ -6,9 +6,8 @@ function Navigation() {
     <div className="navigation">
       <nav className="navbar navbar-expand">
         <div className="container">
-          <div>
             <ul className="navbar-nav mr-auto">
-              
+              <li>Kate Dalton</li>
               <li className="nav-item">
                 <a href="#about">
                   About
@@ -30,7 +29,7 @@ function Navigation() {
                 </a>
               </li>
             </ul>
-          </div>
+          
         </div>
       </nav>
     </div>
