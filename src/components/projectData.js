@@ -19,9 +19,9 @@ const projectData = [
       title: "First Congregational-Christian Church",
       description:"Re-design of a Wordpress site with dynamic news, events, and sermons featured on the homepage.  Back-end optimized for ease of use.",
             link: "https://www.loom.com/share/cda0e1a23e6640a185f1a02ca36c81db?sid=16767c4c-8506-4e61-8258-3aa3669918d9",
-      skills: ["Responsive Design"],
+      skills: ["Responsive Design", "Block Theme", "theme.json","Custom Post Types"],
       image: "newGloucesterScreenshot",
-      tools: [""]
+      tools: ["Wordpress","Local WP","Advanced Custom Fields"]
     }
   ];
   
