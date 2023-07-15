@@ -10,7 +10,7 @@ const projectData = [
     },
     {
       title: "Sticky Notes App",
-      description:"App that allows users to create, edit and delete sticky notes.  Created using React and local storage which allows the app to be fast and for the data to persist in the browswer even in the user navigates away from the site.",
+      description:"App that allows users to create, edit and delete sticky notes.  Created using React and local storage which allows the app to be fast and for the data to persist in the browswer when the user navigates away from the site and then returns later.",
       link: "https://4hfw79.csb.app/",
       skills: ["JavaScript ES6","React","Managing Dataflow","Manipulating the DOM"],
       image: "stickyNoteScreenshot",
