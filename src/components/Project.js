@@ -2,6 +2,7 @@ import React from "react";
 import sitConmigoScreenshot from "./../img/sitConmigoThumbnail400.png";
 import newGloucesterScreenshot from "./../img/NewGloucesterThumbnail400.png";
 import stickyNoteScreenshot from "./../img/StickyNoteThumbnail400.png";
+import mobileTriviaUnlimitedScreenshot from "./../img/MobileTriviaThumbnail400.png";
 
 export default function Project(props) {
   console.log(props);
@@ -17,7 +18,9 @@ export default function Project(props) {
                   ? sitConmigoScreenshot
                   : props.data.image === "newGloucesterScreenshot"
                   ? newGloucesterScreenshot
-                  : stickyNoteScreenshot
+                  : props.data.image === "stickyNoteScreenshot"
+                  ? stickyNoteScreenshot
+                  : mobileTriviaUnlimitedScreenshot
               } alt={props.data.imageAlt}
             />
           </div>

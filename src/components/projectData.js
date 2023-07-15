@@ -11,7 +11,7 @@ const projectData = [
     {
       title: "Sticky Notes App",
       description:"App that allows users to create, edit and delete sticky notes.",
-      link: "https://codesandbox.io/s/sticky-notes-4hfw79?file=/src/App.js",
+      link: "https://4hfw79.csb.app/",
       skills: ["ES6","JSX","Managing Dataflow","Manipulating the DOM"],
       image: "stickyNoteScreenshot",
       imageAlt:"CodeSanbox with code on left and sticky note website on right",
@@ -25,7 +25,16 @@ const projectData = [
       image: "newGloucesterScreenshot",
       imageAlt: "picture of New Gloucester Congregational Church Steeple from above",
       tools: ["Wordpress","Local WP","Advanced Custom Fields"]
-    }
+    },
+    {
+    title: "Mobile Trivia",
+    description: "Web App that pulls 5 multiple choice questions at a time from Open Trivia DB.  Allows user to choose answers and check them.  Once the answers have been checked, a play again button appears to allow the user to pull 5 new questions.",
+          link: "https://kdaltondev.github.io/mobiletriviaunlimited/",
+    skills: ["Javascript","React","JSX","Bootstrap","API"],
+    image: "mobileTriviaUnlimitedScreenshot",
+    imageAlt: "Three trivia questions with multiple answers under each one.  Correct answers indicated by green and incorrect by red.",
+    tools: [""]
+  }
   ];
   
   export default projectData;

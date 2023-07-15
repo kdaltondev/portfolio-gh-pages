@@ -61,11 +61,11 @@ a:hover {
 .sidebar-navigation-menu ul{
   list-style:none;
   margin:0;
-  padding:0;
+  padding:0 0 40px;
 }
 .sidebar-navigation-menu li{
   margin:0;
-  padding:0;
+  padding:0 0 40px;
   text-align:left;
 }
 
