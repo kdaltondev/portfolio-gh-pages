@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-gh-pages/static/css/main.5e78c37b.css",
-    "main.js": "/portfolio-gh-pages/static/js/main.9352b0b2.js",
+    "main.css": "/portfolio-gh-pages/static/css/main.ff1281f7.css",
+    "main.js": "/portfolio-gh-pages/static/js/main.b0ddf37a.js",
     "static/js/787.9100ed13.chunk.js": "/portfolio-gh-pages/static/js/787.9100ed13.chunk.js",
     "static/media/NewGloucesterThumbnail400.png": "/portfolio-gh-pages/static/media/NewGloucesterThumbnail400.826fe582af05f8e5c05d.png",
     "static/media/StickyNoteThumbnail400.png": "/portfolio-gh-pages/static/media/StickyNoteThumbnail400.e73b5ad7f1a8d6e8e5a3.png",
+    "static/media/MobileTriviaThumbnail400.png": "/portfolio-gh-pages/static/media/MobileTriviaThumbnail400.b847247c04e5b2304bc8.png",
     "static/media/sitConmigoThumbnail400.png": "/portfolio-gh-pages/static/media/sitConmigoThumbnail400.0b3ce7f303eb6b95d452.png",
     "static/media/kate-headshot-about.jpg": "/portfolio-gh-pages/static/media/kate-headshot-about.fa29234af37d69aae723.jpg",
     "static/media/logo.svg": "/portfolio-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio-gh-pages/index.html",
     "static/media/hero-bckgrnd-mobile.svg": "/portfolio-gh-pages/static/media/hero-bckgrnd-mobile.8480e8590b9297642ab2.svg",
-    "main.5e78c37b.css.map": "/portfolio-gh-pages/static/css/main.5e78c37b.css.map",
-    "main.9352b0b2.js.map": "/portfolio-gh-pages/static/js/main.9352b0b2.js.map",
+    "main.ff1281f7.css.map": "/portfolio-gh-pages/static/css/main.ff1281f7.css.map",
+    "main.b0ddf37a.js.map": "/portfolio-gh-pages/static/js/main.b0ddf37a.js.map",
     "787.9100ed13.chunk.js.map": "/portfolio-gh-pages/static/js/787.9100ed13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e78c37b.css",
-    "static/js/main.9352b0b2.js"
+    "static/css/main.ff1281f7.css",
+    "static/js/main.b0ddf37a.js"
   ]
 }
