@@ -3,6 +3,8 @@ import sitConmigoScreenshot from "./../img/sitConmigoThumbnail400.png";
 import newGloucesterScreenshot from "./../img/NewGloucesterThumbnail400.png";
 import stickyNoteScreenshot from "./../img/StickyNoteThumbnail400.png";
 import mobileTriviaUnlimitedScreenshot from "./../img/MobileTriviaThumbnail400.png";
+import shoppingListScreenshot from "./../img/ShoppingListThumbnail400.png"
+
 
 export default function Project(props) {
   console.log(props);
@@ -20,6 +22,8 @@ export default function Project(props) {
                   ? newGloucesterScreenshot
                   : props.data.image === "stickyNoteScreenshot"
                   ? stickyNoteScreenshot
+                  : props.data.image === "shoppingListScreenshot"
+                  ? shoppingListScreenshot
                   : mobileTriviaUnlimitedScreenshot
               } alt={props.data.imageAlt}
             />
