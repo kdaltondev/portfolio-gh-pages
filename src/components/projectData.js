@@ -30,7 +30,7 @@ const projectData = [
    
     {
     title: "Mobile Trivia",
-    description: "Web App that pulls 5 multiple choice questions at a time from Open Trivia DB.  Allows user to choose answers and check them.  Once the answers have been checked, a play again button appears to allow the user to pull 5 new questions.",
+    description: "Web App that allows users top pick a category, difficulty, and number of questions and then pulls trivia from The Trivia API.  Allows user to choose answers and check them.  Once the answers have been checked, a play again button appears to allow the user to pull 5 new questions.",
           link: "https://kdaltondev.github.io/mobiletriviaunlimited/",
     skills: ["JavaScript","React","JSX","Bootstrap","APIs"],
     image: "mobileTriviaUnlimitedScreenshot",
