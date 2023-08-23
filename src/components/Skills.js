@@ -70,7 +70,7 @@ export default function Skills() {
         </div>
 
       <h3>
-        JavaScript ES6 | APIs | Photoshop | Chrome DevTools | Responsive Design | Visual Studio Code |
+        JavaScript ES6 | APIs | php | SQL | Photoshop | Chrome DevTools | Responsive Design | Visual Studio Code |
         Strategic Planning | Copywriting
       </h3>
     </div>
